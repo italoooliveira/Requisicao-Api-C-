@@ -1,0 +1,38 @@
+﻿[
+    {
+        "custom_id": "",
+        "sku": "",
+        "title": "MP0",
+        "description": "MP0",
+        "specifications_text": "MP0",
+        "price": 999.99,
+        "discount_price": 2,
+        "current_stock": 3,
+        "delete_when_stock_zero": true,
+        "max_installments": 3,
+        "supports_private_fleet_shipping": true,
+        "supports_sedex_shipping": true,
+        "supports_pac_shipping": true,
+        "supports_on_site_pickup": true,
+        "supports_no_shipping": false,
+        "supports_melhor_envio": true,
+        "supports_shipping_sheet": true,
+        "is_digital_product" : false,
+        "download_url": "",
+        "weight": 3,
+        "height": 4,
+        "width": 5,
+        "length": 8,
+        "brand": "",
+        "category": "Acessórios",
+        "images": 
+        [
+            "https://madeiraurbana.com.br/App_Uploads/Public/produtos_imagens/20210812115005533_t1.jpg",
+            "https://madeiraurbana.com.br/App_Uploads/Public/madeiras_imagens/20210813124240_IMG1_5893.jpg"
+        ],
+        "specifications": [],
+        "is_disabled": false,
+        "private_fleet_parameters": [],
+        "product_variants":[]
+    }
+]
