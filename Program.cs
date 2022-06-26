@@ -13,8 +13,8 @@ namespace CallApi
     {
         static async Task Main()
         {
-            const string baseUrl = "https://www.shop.madeiraurbana.com.br/api/v1/products/";
-            const string authToken = "53c9c1ff5612f12a5068e0a564c67370a2b2ed20";
+            const string baseUrl = "";
+            const string authToken = "";
 
             using var client = HttpClientFactory.Create();
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", authToken);
